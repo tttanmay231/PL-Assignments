@@ -31,5 +31,21 @@ int main() {
  return 0;
 }
 
+/* 
+OUTPUT
+Enter an integer: 5
+Enter a float value: 6
+Enter a double value: 7
+Enter a single character: b
+Enter a string (name): may
+
+--- Output ---
+Integer entered : 5
+Float entered : 6.00
+Double entered : 7.00
+Character entered : b
+String entered : may
+*/
+
 
 
