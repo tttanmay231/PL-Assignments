@@ -12,3 +12,9 @@ int main() {
 
     return 0;
 }
+
+/* 
+Output-
+Enter three numbers: 5 6 7
+Average of the three numbers = 6.00
+*/
