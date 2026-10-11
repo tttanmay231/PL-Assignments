@@ -22,3 +22,8 @@ int main() {
 
     return 0;
 }
+
+/*
+Output-
+The value of num is: 10
+*/
