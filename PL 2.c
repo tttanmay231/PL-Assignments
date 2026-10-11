@@ -14,3 +14,10 @@ int main() {
 
     return 0;
 }
+
+/*
+Output-
+Enter the radius of the circle: 35
+Area of the circle = 3848.45
+    */
+    
