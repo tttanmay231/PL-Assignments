@@ -16,3 +16,10 @@ int main() {
 
     return 0;
 }
+
+/*
+Output - 
+a + b * c          = 25
+(a + b) * c        = 30
+x < y && y < z     = 1
+*/
